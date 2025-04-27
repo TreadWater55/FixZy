@@ -1,0 +1,4 @@
+[
+{"category":"Plumbing","problem":"Clogged bathroom sink","cause":"Hair or debris buildup in the P-trap","fix":"Remove and clean the P-trap.","plain_fix":"Put a bucket under the P-trap, unscrew it carefully, clean it out, and reattach it.","tools":["Bucket","Channel locks","Pipe brush"],"materials":[],"time":"20 minutes","difficulty":"Easy","video":"","source":"Fixzy"},
+{"category":"Electrical","problem":"Light switch not working","cause":"Faulty switch or wiring","fix":"Turn off power and replace the defective switch with a new one.","plain_fix":"Cut power at breaker, unscrew old switch, connect new one, secure it back.","tools":["Screwdriver","Voltage Tester"],"materials":["New switch"],"time":"20 minutes","difficulty":"Easy","video":"","source":"Fixzy"}
+]
